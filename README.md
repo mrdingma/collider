@@ -1,6 +1,6 @@
-## Collider - asteroid game!
+## Collider - asteroid game
 
-An application where you want to score as high as possible! Try to outdo yourself. Just don't get hit!
+As long as the player is not hit by a moving meteor then their score increases. Every time they are hit the score is rest to 0. Score as high as possible!
 
 
 ## Table of Contents
