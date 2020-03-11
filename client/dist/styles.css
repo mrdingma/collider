@@ -1,0 +1,25 @@
+/* your beautiful css styling goes here! */
+
+/* Note: an asteroid image is included in this repo.
+Feel free to use it if you like. */
+
+body {
+  margin: 10px;
+  background-image: url("https://www.universetoday.com/wp-content/uploads/2018/04/nrao18cb5_artistimpression.jpg");
+}
+
+.scoreboard {
+  float: right;
+  color: white;
+  padding: 10px;
+}
+
+.title {
+  float: left;
+  color: white;
+  font-size: 200%;
+}
+
+.player {
+  color: orange;
+}
