@@ -15,10 +15,7 @@ An application where you want to score as high as possible! Try to outdo yoursel
 
 ## Additional Info
 
-This was a 2 day project with the goal of familiarizing myself more with charting technologies/ libraries. Technologies implemented in this project are React, D3, react-chartjs-2 (React wrapper for Chart.js).
-
-Unfortunately Coindesk API data updates every minute (instead of ideally every few seconds...allowing for price ticker to animate more regularly). Second challenge was the API only provided end of day closing prices for historical dates, so in order for me to build out a "Live" view (which represented prices for the last hour) and "1Day" view (24 hour period), I needed to set up a separate server that would query the API every minute and then save the responses into a database (I utilized mongodb for this). I would then query my own API for the aforementioned views.
-
+This was a 2 day project I completed during the winter holidays while I was a student at Hackreactor. My goal was to make a simple yet responsive game. Technologies implemented in this project are vanilla Javascript and D3.
 
 ## Setup
 
